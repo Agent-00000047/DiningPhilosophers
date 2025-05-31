@@ -1,6 +1,6 @@
 # Dining Philosophers Problem
 
-Distributed Akka implementation in Scala and formal verification in P language demonstrating deadlock scenarios and prevention.
+Distributed Akka implementation in Scala and formal verification in P language demonstrating deadlock scenarios and a solution for prevention.
 
 ## Problem
 Classic concurrency problem: 5 philosophers need 2 adjacent forks to eat. All grabbing left fork first → deadlock.
